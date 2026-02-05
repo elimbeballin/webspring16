@@ -1,0 +1,60 @@
+body {
+    background-color:floralwhite;
+ }
+ 
+ .container{
+    width: 730px;
+    margin: 0 auto;
+    padding: 60px;
+    background-color:lightcyan;
+   border-width: 8px;
+  border-style: double;
+  border-color: rgba(25, 25, 96, 0.517);
+ }
+ .nav{
+    list-style: none;
+    text-align: center;
+ }
+ 
+ .nav li {
+    display:inline;
+    margin-right: 20px;
+ }
+ 
+ .div-test{
+    background-color:rgb(252, 252, 243) ;
+    text-align: center;
+    color: rgb(1, 16, 30);
+
+
+  
+  border-style: dashed;
+  border-color:lightpink;
+ }
+ 
+ .span1 {
+    font-size: 50px;
+ }
+ 
+ .span2 {
+    font-size: 10px;
+ }
+ 
+ 
+ .div-test{
+   background-color:lavenderblush
+ }
+
+ body {
+    background-color:floralwhite;
+ }
+ 
+ .container{
+    width: 730px;
+    margin: 0 auto;
+    padding: 60px;
+    background-color:lightcyan;
+   border-width: 8px;
+  border-style: double;
+  border-color: rgba(25, 25, 96, 0.517);
+ }
